@@ -13,3 +13,9 @@ A simple 3D platformer with coins that the player can collect and spend to doubl
 Tutorials followed:  
 [LEARN UNITY - The Most BASIC TUTORIAL I'll Ever Make](https://www.youtube.com/watch?v=pwZpJzpE2lQ)  
 [How To Make 3D Coins Or Any Gameobject Rotate With Animation In Your Game Made With Unity Software](https://www.youtube.com/watch?v=xyQZNZO2gu4)
+
+## [ScriptableObjectsTest](ScriptableObjectsTest/)
+A project to test out decoupling code using Scriptable Objects for basic functionality.
+
+Tutorials followed:  
+[The Power of Scriptable Objects as Middle-Men](https://www.youtube.com/watch?v=qUYpQ8ySkLU)
